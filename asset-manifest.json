@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quickchat-app/static/css/main.464676a6.css",
+    "main.css": "/quickchat-app/static/css/main.aa196b9f.css",
     "main.js": "/quickchat-app/static/js/main.24d72f46.js",
     "static/js/787.8e143ae1.chunk.js": "/quickchat-app/static/js/787.8e143ae1.chunk.js",
     "index.html": "/quickchat-app/index.html",
-    "main.464676a6.css.map": "/quickchat-app/static/css/main.464676a6.css.map",
+    "main.aa196b9f.css.map": "/quickchat-app/static/css/main.aa196b9f.css.map",
     "main.24d72f46.js.map": "/quickchat-app/static/js/main.24d72f46.js.map",
     "787.8e143ae1.chunk.js.map": "/quickchat-app/static/js/787.8e143ae1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.464676a6.css",
+    "static/css/main.aa196b9f.css",
     "static/js/main.24d72f46.js"
   ]
 }
