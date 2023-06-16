@@ -7,7 +7,8 @@ import {
   BrowserRouter,
   Routes,
   Route,
-  Navigate
+  Navigate,
+  HashRouter
 } from "react-router-dom";
 import { useContext } from 'react';
 import { AuthContext } from './context/AuthContext';
@@ -25,7 +26,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/">
           <Route index element={
@@ -38,7 +39,7 @@ function App() {
           <Route path='register' element={<Register />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
 
   );
 }
